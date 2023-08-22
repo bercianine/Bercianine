@@ -7,7 +7,7 @@ A UX/UI designer with a passion for creating innovative, data-driven products.
 ---
 
 ### 💼 My experience
-I have 5+ years of experience and a passion for creating innovative, data-driven products. From healthcare to streaming, I have a proven track record of designing applications that meet users' needs and exceed business expectations. With a deep understanding of end-to-end design process and human-centered design, I bring a unique perspective to every project I work on. I thrive on challenges and love to tackle complex problems with creativity and empathy.
+From healthcare to streaming, I have a track record of designing applications that meet users' needs and exceed business expectations. With a deep understanding of end-to-end design process and human-centered design, I bring a unique perspective to every project I work on. I thrive on challenges and love to tackle complex problems with creativity and empathy.
 
 ### 👩‍💻 Currently learning
 Coding! Super excited to dive deep into this universe as a student at Le Wagon's Web Development Bootcamp.
