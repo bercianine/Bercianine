@@ -4,7 +4,7 @@ A UX/UI designer with a passion for creating innovative, data-driven products.
 
 🌐 [sofiabercianine.com](https://sofiabercianine.framer.website/)
 
-<br>
+-
 
 👋 Hi there! I'm Sofia, a Product Designer with 5+ years of experience and a passion for creating innovative, data-driven products. From healthcare to streaming, I have a proven track record of designing applications that meet users' needs and exceed business expectations.
 
