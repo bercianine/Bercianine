@@ -1,4 +1,4 @@
-![Cover](/Cover.png)
+![Cover](/NewCover.png)
 
 # Hey, I’m Sofia! 👋
 
