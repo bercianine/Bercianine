@@ -1,26 +1,38 @@
+![Cover](/Cover.png)
+
 # Hey, I’m Sofia! 👋
 
-A UX/UI designer with a passion for creating innovative, data-driven products.
+Graduated in Full-Stack Development from Le Wagon with a background as a Senior UX/UI Designer creating innovative, data-driven products that exceed business expectations.
 
 🌐 [sofiabercianine.com](https://sofiabercianine.framer.website/)
 
 ---
 
-### 💼 My experience
-From healthcare to streaming, I have a track record of designing applications that meet users' needs and exceed business expectations. With a deep understanding of end-to-end design process and human-centered design, I bring a unique perspective to every project I work on. I thrive on challenges and love to tackle complex problems with creativity and empathy.
+## 💼 My experience
+With a solid foundation in Ruby on Rails and other programming languages, I have successfully led the development of a web app called MOVIN, showcasing my ability to navigate complex challenges within a fast-paced, collaborative environment. In my previous role as a Senior UX/UI Designer, I built high skills in cross-functional collaboration, taking ownership of projects and generating actionable insights. I worked closely with developers, ensuring seamless communication from early stages up to implementation and validation.
 
-### 👩‍💻 Currently learning
-Coding! Super excited to dive deep into this universe as a student at Le Wagon's Web Development Bootcamp.
+---
+## 👩‍💻 Hard Skills
 
-![<Html>](https://img.shields.io/badge/Html-181717?style=for-the-badge&logo=HTML5&logoColor=ffffff)
-![<CSS>](https://img.shields.io/badge/CSS-181717?style=for-the-badge&logo=CSS3&logoColor=ffffff)
-![<JavaScript>](https://img.shields.io/badge/Java_Script-181717?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
-![<Ruby>](https://img.shields.io/badge/Ruby-181717?style=for-the-badge&logo=Ruby&logoColor=ffffff)
+### Programming
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,scss,bootstrap,git,heroku,sqlite,vscode,webflow)](https://skillicons.dev)
 
-### 💡 Outside of work
+### Design
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,pr,ps,ai,ae,blender)](https://skillicons.dev)
+
+---
+
+## 🔍 Recent projects
+
+[![MOVIN](https://img.shields.io/badge/MOVIN-6A67FF?style=for-the-badge)](https://github.com/elenaprous/movin-app)
+[![Wellness](https://img.shields.io/badge/Wellness-E4768A?style=for-the-badge)](https://github.com/bercianine/wellness-app)
+
+---
+
+## 💡 Outside of work
 You can find me roller skating, doing yoga, hosting dinner parties and enjoying music (send me some recommendations!).
 
-### ✨ Get in touch
+## ✨ Get in touch
 Let's connect and chat about how I can help bring your product vision to life!
 
 [![<Linkedin>](https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=181717)](https://www.linkedin.com/in/sofiabercianine/)
